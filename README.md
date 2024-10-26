@@ -1,6 +1,6 @@
 # mspaint
 
-**MSCalc is an DOORS script, it is one of the best one's.
+MSCalc is an DOORS script, it is one of the best one's.
 
 Script:
 ```lua
