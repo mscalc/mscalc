@@ -1,1 +1,1 @@
-print("[mscalc] script is not released")
+print("Microsoft Real")
